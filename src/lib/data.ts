@@ -238,3 +238,16 @@ export const philosophy = [
   "Ease is a greater threat to progress than hardship — when things become too comfortable, it's time to ask: what's next, where can I grow, how can I push for more?",
   "Without commitment, you'll never start. Without consistency, you'll never finish. Keep moving, keep growing, keep learning.",
 ];
+
+export const careerStartYear = 2020;
+
+export const sections = [
+  { id: "top", label: "HOME", spine: "01_HOME" },
+  { id: "about", label: "ABOUT", spine: "02_ABOUT" },
+  { id: "projects", label: "PROJECTS", spine: "03_LABS" },
+  { id: "skills", label: "STACK", spine: "04_STACK" },
+  { id: "experience", label: "EXPERIENCE", spine: "05_TRACK" },
+  { id: "terminal", label: "CLI_SHELL", spine: "06_SHELL" },
+  { id: "hq", label: "MOROCCO_HQ", spine: "07_HQ" },
+  { id: "contact", label: "CONNECT", spine: "08_CONTACT" },
+];
